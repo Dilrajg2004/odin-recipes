@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipesThe current project derives from The Odin Project curriculum. In this project I will demonstrate skills relating to HTML. Primarily I will use headitags along with list tags to create a recipe book.
