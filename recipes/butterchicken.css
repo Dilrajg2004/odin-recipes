@@ -7,11 +7,29 @@ img{
     display: block;
     width: auto;
     height: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 .desc{
     font-family: 'Questrial', sans-serif;
+    font-size: 20px;
     margin-left: 217px;
     margin-right: 217px;
+}
+.ingredients{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
+}
+.curry{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
+}
+.steps{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
 }
