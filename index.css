@@ -9,10 +9,11 @@ h1{
 
 h3{
     font-size: 80px;
+    font-family: 'Questrial', sans-serif;
 }
 
 .div{
-    display: inline;
+    display: inline-block;
     text-align: center;
     width: 500px;
     height: auto;
@@ -23,8 +24,14 @@ h3{
 
 .link1{
     font-size: 39px;
+    font-family: 'Questrial', sans-serif;
+    text-decoration: none;
+    color: rgb(231, 104, 65);
 }
 
 .link2{
     font-size: 39px;
+    font-family: 'Questrial', sans-serif;
+    text-decoration-color: darkgreen;
+    color: rgb(231, 104, 65);
 }
