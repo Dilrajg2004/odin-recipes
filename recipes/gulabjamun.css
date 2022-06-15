@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Questrial', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    display: block;
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+}
+.desc{
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    margin-left: 217px;
+    margin-right: 217px;
+
+}
+.ingredients{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
+}
+.syrup{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
+}
+.steps{
+    font-family: 'Questrial', sans-serif;
+    margin-left: 217px;
+    margin-right: 217px;
+    font-size: 20px;
+}
